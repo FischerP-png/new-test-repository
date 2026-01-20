@@ -1,2 +1,2 @@
 # new-test-repository
-just a test or push and fetch
+just a test of push and fetch
